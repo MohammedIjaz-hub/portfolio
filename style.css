@@ -388,3 +388,40 @@
 .backtp:hover{
     text-decoration: underline;
 }
+
+.signupo img{
+    background-image: cover;
+    width: 800px;
+    border-radius: 8px;
+    border: 1px solid rgb(224, 224, 224);
+    
+
+}
+.signupo{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    
+}
+.uppcent{
+     padding-top: 220px;
+
+}
+
+.responsive{
+    color: white;
+    background-color: rgb(231, 17, 53);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding: 10px;
+}
+
+.inpageo{
+    color: white;
+    background-color: rgb(235, 77, 114);
+    border-top-right-radius: 8px;
+     border-bottom-right-radius: 8px;
+     padding: 10px;
+
+}
+
